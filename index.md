@@ -10,8 +10,6 @@ Hello! I'm currently a PhD student at the [Institute of Neural Information Proce
 
 I hold a Master's degree in **Cognitive Systems** — an interdisciplinary program combining computer science and psychology — from **Ulm University**. Before that, I earned my Bachelor's degree in **Electronic Science and Technology** from **Southeast University** in China.
 
-Test!!!!!!!!!!!!!!!!!
-
 # Research Interests
  - Reinforcement learning
  - Goal-conditioned learning
