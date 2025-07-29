@@ -30,5 +30,10 @@ description: 乌尔姆大学神经信息处理所 博士研究生
 
  - ***"Temporal goal abstraction for goal-conditioned reinforcement learning"*** (Poster), Fabian Wurzberger, **Zeqiang Zhang**, Gerrit Schmid, Sebastian Gottwald and Daniel Braun, FRoBio: Freiburg Robotics and Biology Conference, Freiburg, Germany, 2023 [链接](https://frobio.wordpress.com/temporal-goal-abstraction-for-goal-conditioned-reinforcement-learning/)
 
+# 手稿 (Working Paper)
+ - ***"From Individual Learning to Market Equilibrium: Correcting Structural and Parametric Biases in RL Simulations of Economic Models"*** (with Ruxin Chen) [论文](https://arxiv.org/pdf/2507.18229)
+
+
+
 
 
