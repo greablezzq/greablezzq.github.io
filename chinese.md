@@ -30,8 +30,14 @@ description: 乌尔姆大学神经信息处理所 博士研究生
 
  - ***"Temporal goal abstraction for goal-conditioned reinforcement learning"*** (Poster), Fabian Wurzberger, **Zeqiang Zhang**, Gerrit Schmid, Sebastian Gottwald and Daniel Braun, FRoBio: Freiburg Robotics and Biology Conference, Freiburg, Germany, 2023 [链接](https://frobio.wordpress.com/temporal-goal-abstraction-for-goal-conditioned-reinforcement-learning/)
 
-# 手稿 (Working Paper)
- - ***"From Individual Learning to Market Equilibrium: Correcting Structural and Parametric Biases in RL Simulations of Economic Models"*** (with Ruxin Chen) [论文](https://arxiv.org/pdf/2507.18229)
+# 无出版物的会议/研讨会
+ - ***"Simulating Labor Market Dynamics with Agent-Based Models"*** (Poster), Ruxin Chen and **Zeqiang Zhang**, 2025 Japanese Economic Association Spring Meeting, Nagoya, Japan, 2025 [链接](https://pub.confit.atlas.jp/ja/event/jea2025s/presentation/1P0201-15-07)
+
+ - ***"Adaption on the Macro Level in 2LIKE (Exam Preparation Module)"*** (Short Talk), **Zeqiang Zhang**, Workshop on Adaptive Learning in Higher Education, Ulm, Germany, 2025
+
+ - ***"Learning Contrastively: A Novel Goal-Conditioned Supervised Learning Approach with Dual-evaluation Mechanism"*** (Poster), **Zeqiang Zhang**, Fabian Wurzberger, Gerrit Schmid, Sebastian Gottwald and Daniel Braun, FRoBio: Freiburg Robotics and Biology Conference, Freiburg, Germany, 2023 [链接](https://frobio.wordpress.com/learning-contrastively-a-novel-goal-conditioned-supervised-learning-approach-with-dual-evaluation-mechanism/)
+
+ - ***"Temporal goal abstraction for goal-conditioned reinforcement learning"*** (Poster), Fabian Wurzberger, **Zeqiang Zhang**, Gerrit Schmid, Sebastian Gottwald and Daniel Braun, FRoBio: Freiburg Robotics and Biology Conference, Freiburg, Germany, 2023 [链接](https://frobio.wordpress.com/temporal-goal-abstraction-for-goal-conditioned-reinforcement-learning/)
 
 
 
