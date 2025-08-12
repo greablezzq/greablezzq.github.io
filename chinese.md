@@ -32,9 +32,13 @@ description: 乌尔姆大学神经信息处理所 博士研究生
 
 # 手稿 (Working Paper)
  - ***"From Individual Learning to Market Equilibrium: Correcting Structural and Parametric Biases in RL Simulations of Economic Models"*** (合作者 Ruxin Chen) [预印本论文](https://arxiv.org/pdf/2507.18229)
+
  - ***"Autonomous Learning from Success and Failure: Goal-Conditioned Supervised Learning with Negative Feedback"*** (合作者 Fabian Wurzberger, Gerrit Schmid, Sebastian Gottwald and Daniel A. Braun)
+
  - ***"Learning Robust Representations for  World Models without Reward Signals"*** (合作者 Fabian Wurzberger, Sebastian Gottwald and Daniel A. Braun, 已被 EWRL 2025 接收)
+
  - ***"Characterizing Failure Mechanism of Soft and Hard Rocks: Implication from Acoustic Emission and Machine Learning"*** (合作者 Zhuang Li, Nuwen Xu, Feng Gao and Biao Li)
+
  - ***"A Cognitive Perspective on Information Frictions in Labor Markets"*** (合作者 Ruxin Chen)
 
 
