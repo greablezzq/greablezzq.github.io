@@ -31,7 +31,11 @@ I hold a Master's degree in **Cognitive Systems** — an interdisciplinary progr
 
 # Working Paper
  - ***"From Individual Learning to Market Equilibrium: Correcting Structural and Parametric Biases in RL Simulations of Economic Models"*** (with Ruxin Chen) [Preprint Paper](https://arxiv.org/pdf/2507.18229)
+
  - ***"Autonomous Learning from Success and Failure: Goal-Conditioned Supervised Learning with Negative Feedback"*** (with Fabian Wurzberger, Gerrit Schmid, Sebastian Gottwald and Daniel A. Braun)
+
  - ***"Learning Robust Representations for  World Models without Reward Signals"*** (with Fabian Wurzberger, Sebastian Gottwald and Daniel A. Braun, accepted by EWRL 2025)
+
  - ***"Characterizing Failure Mechanism of Soft and Hard Rocks: Implication from Acoustic Emission and Machine Learning"*** (with Zhuang Li, Nuwen Xu, Feng Gao and Biao Li)
+
  - ***"A Cognitive Perspective on Information Frictions in Labor Markets"*** (with Ruxin Chen)
